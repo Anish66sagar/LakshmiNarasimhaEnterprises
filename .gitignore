@@ -1,0 +1,8 @@
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.log
+*.DS_Store
+.gradle/
+build/
+out/
